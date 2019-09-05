@@ -1,5 +1,10 @@
 # Projeto flask: PIZZA PALACE
 
+1. Criar uma web app utilizando Flask.
+2. Criar um container para encapsular a aplicação
+3. Configurar uma ferramenta de provisionamento para o container
+4. Criar um pipeline de CI/CD
+
 
 ## OTKA
 OTKA é um client responsável por manipular o processo de autenticação do nosso meu projeto.  
