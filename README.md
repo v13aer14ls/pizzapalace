@@ -15,3 +15,4 @@ Temporary password:	21Gramas
 **CLIENT SECRET:** Es6PGMtoOjsHlVgmHAMVp9N2VJLwK83duRwq2zy-  
 **TOKEN:** 0047Xuhb6ttbcF5HOZEd53yduX3ncUGOVS8DnzSlVu
 
+FLASK_APP=blog flask run
