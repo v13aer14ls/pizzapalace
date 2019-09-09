@@ -12,3 +12,4 @@ git clone
 docker build -t site-guilherme:latest
 docker run -d -p 5000:5000 site-guilherme
 ```
+teste
