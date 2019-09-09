@@ -20,4 +20,4 @@ COPY . /app
 
 EXPOSE 5000
 
-ENTRYPOINT ["flask", "run"]
+CMD flask run -h 0.0.0.0
